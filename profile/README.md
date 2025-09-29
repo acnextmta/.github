@@ -22,7 +22,7 @@ Criado com ❤️ pela equipe **Next**, o NXAC busca identificar e bloquear trap
 
 ## 📦 Instalação
 
-1. Baixe a versão mais recente do **NXAC** [aqui](https://github.com/**seuUser**/NextAntiCheat/releases).  
+1. Baixe a versão mais recente do **NXAC** [aqui](https://github.com/acnextmta/nxac-source/).  
 2. Extraia o recurso no diretório `resources` do seu servidor MTA:SA.  
 3. Adicione ao seu `mtaserver.conf`:
 
